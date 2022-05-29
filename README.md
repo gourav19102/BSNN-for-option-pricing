@@ -4,3 +4,8 @@ The goal of this project is to create and train a neural network model that can 
 # DATASET :
 created a dataset of apporximately 1 million examples by pricing a call option using the 
 [Black scholes formula](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model) over a range of possible parameter like strike price,time to maturity,moneyness,interest rate,asset price.this dataset we created for trainign our neural network.
+
+# ANN model:
+implemented a simple feed forward neural network using keras to approximate the black scholes formula.it achieves a fairly high accuracy after a minimal epohcs of training.
+
+# Model Result:
