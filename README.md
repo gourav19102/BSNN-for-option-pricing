@@ -1,2 +1,2 @@
 # BSNN-for-option-pricing
-the aim of this project is to build and train a neural networks model that could imitate and produce same results as popular black Scholes model for option pricing. 
+The goal of this project is to create and train a neural network model that can imitate and generate the same outcomes as the famous black Scholes model for option pricing.
