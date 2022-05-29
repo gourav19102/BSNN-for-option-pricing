@@ -9,4 +9,4 @@ created a dataset of apporximately 1 million examples by pricing a call option u
 implemented a simple feed forward neural network using keras to approximate the black scholes formula.it achieves a fairly high accuracy after a minimal epohcs of training.
 
 # Model Result:
-<img src="https://github.com/gourav19102/BSNN-for-option-pricing/blob/main/bs%20vs%20actual.png" width="400" height="400" />
+<img src="https://github.com/gourav19102/BSNN-for-option-pricing/blob/main/actual%20vs%20bs.png" width="400" height="400" />
